@@ -24,7 +24,7 @@ int main()
     ScorePerHour +=ScorePerHour+(Score/HoursPlayed);
 
     cout<<"__________"<<endl;
-    cout<<FirstName<<" "<<LastName<<endl;;
+    cout<<FirstName<<" "<<LastName<<endl;
     cout<<"Score: "<<Score<<endl;
     cout<<"Hours Played: "<<HoursPlayed<<endl;
     cout<<"Score per hour: "<<ScorePerHour<<endl;
